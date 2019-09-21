@@ -9,13 +9,13 @@ package p306;
  */
 public class Fish extends GameObject
 {
-    public Fish(){
-        
+    public Fish(int x_fish,int y_fish,int dis_fish){
+        super(x_fish,y_fish,dis_fish);
     }
     public void move(){
         
     }
     public char getShape(){
-        
+        return '@';
     }
 }
