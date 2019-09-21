@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Write a description of class Main here.
  *
- * @author (your name)
+ * @author (Seiya-Umemoto)
  * @version (a version number or a date)
  */
 public class Game
